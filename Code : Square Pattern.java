@@ -6,7 +6,7 @@ Pattern for N = 4
 4444
 4444
 4444
-Input format :
+Input format  :
 Integer N (Total no. of rows)
 Output format :
 Pattern in N lines
