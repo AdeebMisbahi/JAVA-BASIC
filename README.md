@@ -1,0 +1,4 @@
+# JAVA-BASIC  JAVA INTRODUCTION 
+# CODING NINJAS 
+# Coding-ninjas
+here are all the question CODING NINJAS JAVA INTRODUCTION
