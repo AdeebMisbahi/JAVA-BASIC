@@ -6,7 +6,7 @@ Input Format :
 Output Format :
 Fahrenheit to Celsius conversion table. One line for every Fahrenheit and corresponding Celsius value in integer form. 
 The Fahrenheit value and its corresponding Celsius value should be separate by single space.
-Constraints :
+Constraints  :
 0 <= S <= 90
 S <= E <=  900
 0 <= W <= 80 
